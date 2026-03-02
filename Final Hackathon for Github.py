@@ -1405,4 +1405,5 @@ plt.title("Model Comparison Results", pad=20)
 plt.tight_layout()
 plt.show()
 
-# Logistic Regression is the superior model in this evaluation, as it achieves the highest Accuracy (88.9%), Precision (91.9%), and ROC-AUC (0.95), consistently outperforming the other four models across nearly every metric. While the Linear SVM follows closely as a strong second, Logistic Regression provides the best overall balance for distinguishing between the classes.
+# Logistic Regression is the superior model in this evaluation.
+# Logistic Regression achieves the highest Accuracy (88.9%), Precision (91.9%), and ROC-AUC (0.95), consistently outperforming the other four models across nearly every metric. While the Linear SVM follows closely as a strong second, Logistic Regression provides the best overall balance for distinguishing between the classes.
