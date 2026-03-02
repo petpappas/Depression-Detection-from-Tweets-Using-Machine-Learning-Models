@@ -28,6 +28,4 @@ The core innovation of this project is the **Linguistic Neutrality Filter**, whi
 * **ROC-AUC:** 0.95
 * **Precision:** 91.9%
 
-## 🛠 Installation
-```bash
-pip install pandas matplotlib seaborn nltk scikit-learn xgboost wordcloud
+
