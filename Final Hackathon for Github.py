@@ -1,7 +1,3 @@
-# Generated from: Final Hackathon.ipynb
-# Converted at: 2026-03-02T20:57:16.837Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
 
 # ## 1️⃣ Data Understanding & Cleaning
 
