@@ -5,8 +5,6 @@
 ## 🧠 Project Overview
 This project implements a binary classification pipeline to identify signs of depression in social media text. Using a dataset of tweets spanning Dec 2019 to Dec 2020, we developed a system that distinguishes between **Depressed (0)** and **Non-Depressed (1)** states with high precision.
 
-The core innovation of this project is the **Linguistic Neutrality Filter**, which programmatically identifies and removes high-frequency words that appear equally in both classes to reduce model noise.
-
 ## 🗂 Project Workflow
 1. **Data Cleaning:** Handled null values, removed ~10,000 duplicates, and filtered out non-informative single-word tweets.
 2. **Advanced Preprocessing:**
